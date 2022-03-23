@@ -21,7 +21,7 @@ CONFIGDIR = os.path.join(dir, 'config')
 # print(CONFIGDIR)
 
 # 测试结果存放目录
-RESULTDIR = os.path.join(dir, 'reuslt')
+RESULTDIR = os.path.join(dir, 'result')
 # print(RESULTDIR)
 
 # 日志存放目录
